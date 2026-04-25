@@ -237,4 +237,4 @@ Overlay on Original Image
 
 ## Author
 
-Faizal
+Faisal
